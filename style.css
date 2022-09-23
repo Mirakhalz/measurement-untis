@@ -1,0 +1,11 @@
+body > div {
+    height: 50px;
+    border: solid;
+    margin-top: -5px;
+}
+
+#one {
+    background-color: aqua;
+    width: 10in;
+    /*  */
+}
